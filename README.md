@@ -27,7 +27,7 @@ Users should be able to:
   
 ### Screenshot
 
-![Output State](output.png)
+![Output State](output1.png)
 
 
 As we open the same page for mobile and desktop, there is a minimum differnce in CSS.
