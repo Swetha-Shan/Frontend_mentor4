@@ -18,20 +18,22 @@
       padding-bottom: 2%;
     }
     @media (max-width: 520px) {
-        body{
-            font-family: "Figtree", sans-serif;
-      font-size: small;
-      font-weight: 550;
-        }
-    .card{
-        margin: 0px auto;
-      background-color: white;
-      text-align: justify;
-      color: hsl(30, 10%, 34%);
-      padding-bottom: 2%;
-      max-width: 100%;
-        padding: 0px;
-        border-radius:0%;
+
+    body {
+        font-family: "Figtree", sans-serif;
+        font-size: 0.9rem;
+        font-weight: 500;
+    }
+
+    .card {
+        width: 100%;
+        max-width: none;
+        margin: 0 auto;
+        padding: 16px;
+        background-color: white;
+        color: hsl(30, 10%, 34%);
+        text-align: justify;
+        border-radius: 0;
     }
 }
     img{
