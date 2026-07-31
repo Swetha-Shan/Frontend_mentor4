@@ -18,13 +18,20 @@
       padding-bottom: 2%;
     }
     @media (max-width: 520px) {
+        body{
+            font-family: "Figtree", sans-serif;
+      font-size: small;
+      font-weight: 550;
+        }
     .card{
       background-color: white;
       text-align: justify;
       color: hsl(30, 10%, 34%);
       padding-bottom: 2%;
       max-width: 100%;
-      line-height: 1.9px;
+      line-height: 19px
+        padding:0px;
+        border-radius:0%;
     }
 }
     img{
