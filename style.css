@@ -24,12 +24,12 @@
       font-weight: 550;
         }
     .card{
+        margin: 0px auto;
       background-color: white;
       text-align: justify;
       color: hsl(30, 10%, 34%);
       padding-bottom: 2%;
       max-width: 100%;
-      line-height: 19px
         padding: 0px;
         border-radius:0%;
     }
